@@ -4,6 +4,8 @@ The winning Zumo codebase from the Microsoft competition at EMF Camp 2016!
 
 You can see it in action winning the final of the competition here: https://twitter.com/liliankasem/status/761963212556361732
 
+The demo script this is based off can [https://github.com/pololu/zumo-shield/blob/master/ZumoExamples/examples/SumoCollisionDetect/SumoCollisionDetect.ino](be found here).
+
 ## Getting Started
 
 1. Install the [Arduino IDE](https://www.arduino.cc/en/Main/Software)
