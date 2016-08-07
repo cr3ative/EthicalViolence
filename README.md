@@ -18,3 +18,4 @@ You can see it in action winning the final of the competition here: https://twit
   * Single-shove is avoided using a random initial shove avoid routine.
   * Ending up in a head-to-head shoving battle comes down to random chance or the individual robot's setup; it's really best avoided.
   * Tweaked-default is find the line, reverse, change angle, try again. We find those Zumos repeatedly hacking against an edge, and scoop them up sideways.
+* The edge detection is pretty good, and it shouldn't run itself out of the arena. If it does, change the motor speed settings. You may be able to run this and simply outlive the others if they have their motors set up too fast.
