@@ -1,6 +1,8 @@
 # EthicalViolence
 
-The winning Zumo codebase from the Microsoft competition at EMF Camp 2016! You can see it in action winning the final of the competition here: https://twitter.com/liliankasem/status/761963212556361732
+The winning Zumo codebase from the Microsoft competition at EMF Camp 2016! 
+
+You can see it in action winning the final of the competition here: https://twitter.com/liliankasem/status/761963212556361732
 
 ## Getting Started
 
@@ -10,7 +12,7 @@ The winning Zumo codebase from the Microsoft competition at EMF Camp 2016! You c
 
 ## About the code
 
-* The collision detection has been ripped out entirely. Don't need it.
+* The collision detection has been ripped out entirely. That's our secret. ;)
 * Randomisation features heavily in this code and is initialised properly. What you can't predict, you can't program explicitly against.
 * This specifically targets Zumo robots coded either with a single-shove strategy or a tweaked-default strategy.
   * Single-shove is avoided using a random initial shove avoid routine.
