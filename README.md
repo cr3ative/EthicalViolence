@@ -16,4 +16,5 @@ You can see it in action winning the final of the competition here: https://twit
 * Randomisation features heavily in this code and is initialised properly. What you can't predict, you can't program explicitly against.
 * This specifically targets Zumo robots coded either with a single-shove strategy or a tweaked-default strategy.
   * Single-shove is avoided using a random initial shove avoid routine.
+  * Ending up in a head-to-head shoving battle comes down to random chance or the individual robot's setup; it's really best avoided.
   * Tweaked-default is find the line, reverse, change angle, try again. We find those Zumos repeatedly hacking against an edge, and scoop them up sideways.
